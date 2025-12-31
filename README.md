@@ -29,7 +29,7 @@ The client will automatically:
 
 ### 1. Initialization
 
-First, import and instantiate the client with your API credentials, which can be obtained from the (Proofpoint Admin Portal)[https://admin.proofpoint.com/apiKeyManagement].
+First, import and instantiate the client with your API credentials, which can be obtained from the [Proofpoint Admin Portal](https://admin.proofpoint.com/apiKeyManagement).
 
 ```python
 import os
